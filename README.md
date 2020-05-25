@@ -26,7 +26,14 @@ Please follow the steps prompted by the main interface.
 *Step4: Choose one of the variety threshold setting methods and enter the corresponding threshold.<br>
 *Step5: Select an appraisal index for loci combination screening.<br>
 *Step6: Set the number of base pairs of different alleles, when the molecular marker type of the data file is SSR.<br>
-*Final: Click `OK` button to run the program. When statusStrip shows ```diff - Run done! ```, click `Open Result Folder` button to 
+*Final: Click `"OK"` button to run the program. When statusStrip shows 
+```diff
+- Run done! Time:0h0m0s8ms
+```
+click `"Open Result Folder"` button to find the `.csv` output file e.g. 
+```diff
++ R-VDP_data file name_finishdate_finishtime.csv 
+``` 
 
 ## 5. Citation
 Please see and cite our paper: 
