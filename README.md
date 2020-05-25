@@ -20,13 +20,13 @@ The data structure of the locus file is that different rows represent different 
 ## 4. Method of Operation
 Please follow the steps prompted by the main interface.
 
->Step1: Set the molecular marker type of the data file.<br>
->Step2: Set the data structure of the data file.<br>
->Step3: Enter the path of the data file and loci file. When this step is completed, steps 1 and 2 will not allow changes, otherwise please restart the program or click the open button of the data file and click Cancel to reset the input of the above steps.<br>
->Step4: Choose one of the variety threshold setting methods and enter the corresponding threshold.<br>
->Step5: Select an appraisal index for loci combination screening.<br>
->Step6: Set the number of base pairs of different alleles, when the molecular marker type of the data file is SSR.<br>
->Final: Click `OK` button to run the program. When statusStrip shows `Run done!`, click `Open Result Folder` button to 
+*Step1: Set the molecular marker type of the data file.<br>
+*Step2: Set the data structure of the data file.<br>
+*Step3: Enter the path of the data file and loci file. When this step is completed, steps 1 and 2 will not allow changes, otherwise please restart the program or click the open button of the data file and click Cancel to reset the input of the above steps.<br>
+*Step4: Choose one of the variety threshold setting methods and enter the corresponding threshold.<br>
+*Step5: Select an appraisal index for loci combination screening.<br>
+*Step6: Set the number of base pairs of different alleles, when the molecular marker type of the data file is SSR.<br>
+*Final: Click `OK` button to run the program. When statusStrip shows ``` - Run done!```, click `Open Result Folder` button to 
 
 ## 5. Citation
 Please see and cite our paper: 
