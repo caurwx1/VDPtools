@@ -26,6 +26,7 @@ Please follow the steps prompted by the main interface.
 >Step4: Choose one of the variety threshold setting methods and enter the corresponding threshold.<br>
 >Step5: Select an appraisal index for loci combination screening.<br>
 >Step6: Set the number of base pairs of different alleles, when the molecular marker type of the data file is SSR.<br>
+>Final: Click `OK` button to run the program. When statusStrip shows `Run done!`, click `Open Result Folder` button to 
 
 ## 5. Citation
 Please see and cite our paper: 
