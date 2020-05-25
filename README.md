@@ -8,4 +8,9 @@ VDP contains three statistic methods, i.e. probability-based variety discriminat
 # 2. Running Environment
 VDP is developed based on the C # programming language of the Visual Studio development environment. It can only run on Windows XP or later operating systems. You need to ensure that the computer has .Net Framwork 4.0 and above.
 
-# 3. Method of Operation
+The program does not require any installation steps, just click the "VDP.exe" file to run.
+
+# 3. Data Preparation
+
+
+# 4. Method of Operation
