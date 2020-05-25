@@ -32,11 +32,14 @@ Please follow the steps prompted by the main interface.
 ```
 click `"Open Result Folder"` button to find the `.csv` output file e.g. 
 ```diff
-+ R-VDP_data file name_finishdate_finishtime.csv 
++ R-VDP_data file name_finishdate_finishtime.csv, C-VDP_data file name_finishdate_finishtime.csv 
 ``` 
 
-## 5. Citation
+## 5. Interpretation of Result
+The data structure of the output file corresponds to the data structure of the loci file. Each row of the output file represents the calculation result of a loci combination. The first column represents the number of the site combination, which is consistent with the first column of the loci file. The second column is the calculation result corresponding to the appraisal index selected in step 5 of the program. When the appraisal index selected in step 5 of the program is R-VDP, the sample_id that cannot be recognized by the loci combination will be displayed from the third column. Other methods will not display the unrecognized sample_id results.
+
+## 6. Citation
 Please see and cite our paper: 
 
-## 6. Contact Us
+## 7. Contact Us
 Please send your comments and suggestions to caurwx@gmail.com.
