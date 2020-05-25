@@ -8,7 +8,10 @@ VDP contains three statistic methods, i.e. probability-based variety discriminat
 ## 2. System Requirement & Installation
 VDP is developed based on the C # programming language of the Visual Studio development environment. It can only run on Windows XP or later operating systems. You need to ensure that the computer has `.Net Framwork 4.0` and above.
 
-The program does not require any installation steps, just click the `VDP.exe` file to run.
+The program does not require any installation steps, just click the file to run.
+```diff
+! VDP.exe
+``` 
 
 ## 3. Data Preparation
 The software needs to input two csv files: one is a data file, which contains the genotype data of the sample to be evaluated; one is a locus file, which contains the locus number of the locus combination to be evaluated. 
@@ -32,7 +35,7 @@ Please follow the steps prompted by the main interface.
 ```
 click `"Open Result Folder"` button to find the `.csv` output file e.g. 
 ```diff
-+ R-VDP_data file name_finishdate_finishtime.csv, C-VDP_data file name_finishdate_finishtime.csv 
++ R-VDP_DataFileName_FinishDate_FinishTime.csv, C-VDP_DataFileName_FinishDate_FinishTime.csv ....
 ``` 
 
 ## 5. Interpretation of Result
