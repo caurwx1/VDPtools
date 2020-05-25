@@ -11,6 +11,10 @@ VDP is developed based on the C # programming language of the Visual Studio deve
 The program does not require any installation steps, just click the "VDP.exe" file to run.
 
 # 3. Data Preparation
+The software needs to input two csv files: one is a data file, which contains the genotype data of the sample to be evaluated; one is a locus file, which contains the locus number of the locus combination to be evaluated. 
 
+The types of molecular markers supported by the data file include simple sequence repeats (SSR) and single nucleotide polymorphism (SNP). The data structure supported by the data file includes two types: different rows are different loci, and different columns are different samples; different The rows are different samples, and the different columns are different loci. For the specific format, please refer to the two demo files "SSR data (row-samples col-loci) .csv" and "SNP data (row-loci col-sample) .csv" provided by this project.
+
+The data structure of the locus file is that different rows represent different locus combinations, and different columns represent different loci, where the first column represents the sequence number of the locus combination, and the second column represents the specific locus contained in the locus combination. It is represented by the serial number of the locus in the data file. The sequence number of the locus starts from 0, and 0 represents the first locus.
 
 # 4. Method of Operation
