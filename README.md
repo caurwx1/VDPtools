@@ -42,7 +42,7 @@ click `"Open Result Folder"` button to find the `.csv` output file e.g.
 The data structure of the output file corresponds to that of the loci file. Each row of the output file represents the calculation result of a loci combination. The first column represents the number of the site combination, which is consistent with the first column of the loci file. The second column is the calculation result corresponding to the appraisal index selected in step 5 of the program. When the appraisal index selected in step 5 of the program is R-VDP, the sample_id that cannot be recognized by the loci combination will be displayed from the third column. Other methods will not display the unrecognized sample_id results.
 
 ## 6. Citation
-Please see and cite our paper: Yang,Y. et al. Variety discrimination power: An Appraisal Index for Loci Combination Screening Applied to Plant Variety Discrimination  (In preparation)
+Please see and cite our paper:  Yang Y, Tian H, Wang R, Wang L, Yi H, Liu Y, Xu L, Fan Y, Zhao J and Wang F (2021) Variety Discrimination Power: An Appraisal Index for Loci Combination Screening Applied to Plant Variety Discrimination. Front. Plant Sci. 12:566796. doi: 10.3389/fpls.2021.566796
 
 ## 7. Contact Us
 Please send your comments and suggestions to caurwx@gmail.com.
